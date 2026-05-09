@@ -17,7 +17,7 @@ class student
     }
     void print(void)
     {
-        cout<<"Name: "<<name<<endl<<"Marks: "<<marks;
+        cout<<"Name: "<<name<<endl<<"Marks: "<<marks<<endl;
     }
 
 };
